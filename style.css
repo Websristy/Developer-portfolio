@@ -15,7 +15,7 @@ button{
     color: rgb(149, 229, 229);
     
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100PX;
 }
