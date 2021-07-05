@@ -1,9 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
 }
 h1{
     font-size: 70px;
     color:black;
+}
+h2{
+    font-size: 50px;
 }
 
 .orange-color{
@@ -41,4 +46,45 @@ button{
     background-image: url(images/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.Dream-Big{
+    background-image: url(images/back2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.experiance-iteam{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left:20px;
+    padding-right: 20px;
+    
+    box-shadow: 10px 10px 40px rgb(68, 64, 64);
+    border-left: 10px solid ;
+}
+
+.Expereinces-area{
+    background-image: url(images/back3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;\
+    
+}
+
+#baby-experiance{
+    border-left: 10px solid ;
+    border-image: linear-gradient(blue ,red);
+    border-image-slice: 1 ;
+}
+
+
+#web-experiance{
+    border-left: 10px solid ;
+    border-image: linear-gradient(cyan, purple);
+    border-image-slice: 1 ;
+
+}
+footer{
+    text-align:center;
 }
