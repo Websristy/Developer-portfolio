@@ -71,6 +71,9 @@ button{
     background-size: cover;\
     
 }
+.exp{
+    text-align: center;
+}
 
 #baby-experiance{
     border-left: 10px solid ;
@@ -84,7 +87,7 @@ button{
     border-image: linear-gradient(cyan, purple);
     border-image-slice: 1 ;
 
-}
+}git 
 footer{
     text-align:center;
 }
